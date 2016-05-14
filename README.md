@@ -1,4 +1,4 @@
-GoAccess Color Schemes
+GoAccess Color Schemes [![GoAccess](https://goaccess.io/badge?schemes)](http://goaccess.io)
 ========
 
 If your terminal supports color, you can customize GoAccess to suit your color
