@@ -18,7 +18,7 @@ instance,
 
 ### 256 gradient redblack ###
 
-![GoAccess Gradient RedBlack](https://goaccess.io/colors/256_gradient_redback.png?20160514)
+![GoAccess Gradient RedBlack](https://goaccess.io/colors/256_gradient_redblack.png?20160514)
 [Color Scheme](https://github.com/allinurl/goaccess-colors/colors/256_gradient_redblack.conf)
 
 ### 256 hybrid ###
