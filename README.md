@@ -30,3 +30,8 @@ instance,
 [256_monokai.conf](https://github.com/allinurl/goaccess-colors/colors/256_monokai.conf)
 
 ![GoAccess Monokai](https://goaccess.io/colors/256_monokai.png?20160514)
+
+#### 256 tuesday bright ####
+[256_monokai.conf](https://github.com/allinurl/goaccess-colors/colors/256_tuesday_bright.conf)
+
+![GoAccess Monokai](https://goaccess.io/colors/256_tuesday_bright.png?20160514)
