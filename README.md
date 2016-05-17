@@ -17,21 +17,13 @@ instance,
 ## Color Schemes ##
 
 #### 256 gradient redblack ####
-[256_gradient_redblack.conf](https://github.com/allinurl/goaccess-colors/blob/master/colors/256_gradient_redblack.conf)
-
-![GoAccess Gradient RedBlack](https://goaccess.io/colors/256_gradient_redblack.png?20160514)
+[![Gradient Redblack](https://goaccess.io/colors/256_gradient_redblack.png?20160514)](https://github.com/allinurl/goaccess-colors/blob/master/colors/256_gradient_redblack.conf)
 
 #### 256 hybrid ####
-[256_hybrid.conf](https://github.com/allinurl/goaccess-colors/blob/master/colors/256_hybrid.conf)
-
-![GoAccess Hybrid](https://goaccess.io/colors/256_hybrid.png?20160514)
+[![Hybrid](https://goaccess.io/colors/256_hybrid.png?20160514)](https://github.com/allinurl/goaccess-colors/blob/master/colors/256_hybrid.conf)
 
 #### 256 monokai ####
-[256_monokai.conf](https://github.com/allinurl/goaccess-colors/colors/256_monokai.conf)
-
-![GoAccess Monokai](https://goaccess.io/colors/256_monokai.png?20160514)
+[![Monokai](https://goaccess.io/colors/256_monokai.png?20160514)](https://github.com/allinurl/goaccess-colors/blob/master/colors/256_monokai.conf)
 
 #### 256 tuesday bright ####
-[256_tuesday_bright.conf](https://github.com/allinurl/goaccess-colors/colors/256_tuesday_bright.conf)
-
-![GoAccess Tueday Bright](https://goaccess.io/colors/256_tuesday_bright.png?20160514)
+[![Tuesday Bright](https://goaccess.io/colors/256_tuesday_bright.png?20160514)](https://github.com/allinurl/goaccess-colors/blob/master/colors/256_tuesday_bright.conf)
