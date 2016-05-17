@@ -26,4 +26,4 @@ instance,
 [![Monokai](https://goaccess.io/colors/256_monokai.png?20160514)](https://github.com/allinurl/goaccess-colors/blob/master/colors/256_monokai.conf)
 
 #### 256 tuesday bright ####
-[![Tuesday Bright](https://goaccess.io/colors/256_tuesday_bright.png?20160514)](https://github.com/allinurl/goaccess-colors/blob/master/colors/256_tuesday_bright.conf)
+[![Tuesday Bright](https://goaccess.io/colors/256_tuesday_bright.png?20160517)](https://github.com/allinurl/goaccess-colors/blob/master/colors/256_tuesday_bright.conf)
